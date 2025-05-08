@@ -1,0 +1,31 @@
+
+# Core
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.1
+
+# Jupyter
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# PyTorch (con CUDA opcional, usa torch==2.x si usas entorno sin GPU)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# NLP & Transformers
+nltk>=3.6.0
+spacy>=3.1.0
+transformers>=4.25.0
+datasets>=2.8.0
+sentencepiece>=0.1.95
+
+# Utilities
+scikit-learn>=1.0.0
+tqdm>=4.60.0
+requests>=2.25.0
+
+# Optional: For interactive visualizations or text processing
+plotly>=5.0.0
+gensim>=4.1.0
